@@ -1,7 +1,6 @@
 import React, {Component} from "react"
 import ReactDOM from "react-dom"
 import "./_common.scss"
-import "./_variables.scss"
 import App from './app/app'
 import $ from 'jquery'
 
