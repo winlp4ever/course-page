@@ -1,0 +1,29 @@
+{
+    "id": 0,
+    "title": "Example Lecture",
+    "about": "This is an example course",
+    "slides": "https://docs.google.com/presentation/d/e/2PACX-1vSZ44q-fwq2DIeF8852-rjZrgxDFBGLXrOjEsl3YMO8HDcRmzpTcrep4304gQPdSWfsCftxlBhqJM8R/embed?start=false&loop=false&delayms=3000",
+    "teachers": [0, 1, 2],
+    "course_materials": [
+        {
+            "filename": "link-1",
+            "url": "google.com"
+        },
+        {
+            "filename": "link-2",
+            "url": "facebook.com"
+        }
+    ],
+    "lecture": [
+        {
+            "id": "11d1f",
+            "text": "# Hello world \n How are you",
+            "language": "markdown"
+        },
+        {
+            "id": "tf123",
+            "text": "def foo():\n\tu = 'hello world'\n\tprint(u)",
+            "language": "python"
+        }
+    ]
+}
